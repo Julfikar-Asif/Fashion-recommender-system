@@ -1,0 +1,16 @@
+# ML generated files
+*.npy
+*.pkl
+*.h5
+*.ckpt
+
+# Model artifacts
+models/
+data/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
