@@ -5,7 +5,6 @@ A deep learning-powered fashion recommendation system that suggests similar fash
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12.0-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -277,7 +276,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source and available for educational and personal use.
 
 ## 🙏 Acknowledgments
 
