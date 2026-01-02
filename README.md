@@ -168,7 +168,7 @@ Fashion-recommender-system/
 ├── app.py                  # Streamlit web application
 ├── project.ipynb           # Jupyter notebook for model training
 ├── requirements.txt        # Python dependencies
-├── runtime.txt            # Python version specification
+├── runtime.txt            # Python version for deployment (Heroku, etc.)
 ├── styles.csv             # Product metadata
 ├── README.md              # Project documentation
 ├── .gitignore            # Git ignore rules
